@@ -1,0 +1,16 @@
+# Node / Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+
+# Python / Flask
+backend/.venv/
+backend/__pycache__/
+backend/.env
+
+# Docker
+dbdata/
+
+# OS junk
+.DS_Store
+Thumbs.db
